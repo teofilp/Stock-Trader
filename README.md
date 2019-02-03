@@ -1,2 +1,18 @@
-# Stock-Trader
-A stock trader game that let's you buy and sell stocks whose prices change every day and lets you save your progress in the cloud
+# stock_trader
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
